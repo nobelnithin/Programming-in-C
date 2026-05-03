@@ -25,5 +25,35 @@ Compiler is a tool which convert high level C program into machine readable obje
 
 This linker will link my object file and library file stdio together and gives executable file...which is run by my windows machine
 
-![alt text](<Source File.png>)
+![alt text](<Source File.png>) 
+
+
+#Operators in C
+   1) Arithmatic Operators
+   2) Relational Operators
+   3) Equality Operators
+   4) Logical Operators
+   5) Unary Operators
+   6) Conditional operators
+   7) Bitwise operators
+   8) Assignment operators
+   9) Comma operator
+   10) sizeof operator
+
+1) Arithmatic Operators:
+     
+
+#Bitwise operator
+
+Shift operator
+
+if x = 0010 1101 (0x2D) 45-->decimal
+
+x << 1 is 0101 1010 (0x5A) 90--> decimal
+
+x << 4 is 1101 0000
+
+If you see closelly left shift of 1 is multiple of 2
+
+
 
