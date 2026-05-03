@@ -28,6 +28,21 @@ This linker will link my object file and library file stdio together and gives e
 ![alt text](<Source File.png>) 
 
 
+#Operators in C
+   1) Arithmatic Operators
+   2) Relational Operators
+   3) Equality Operators
+   4) Logical Operators
+   5) Unary Operators
+   6) Conditional operators
+   7) Bitwise operators
+   8) Assignment operators
+   9) Comma operator
+   10) sizeof operator
+
+1) Arithmatic Operators:
+     
+
 #Bitwise operator
 
 Shift operator
